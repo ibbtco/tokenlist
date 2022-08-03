@@ -6,11 +6,18 @@
     "minor": 1,
     "patch": 0
   },
-  "tags": {},
+  "tags": 
+  {
+  "energy",
+  "hydrogen",
+  "alternatives",
+  "open banking"
+  },
   "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
   "keywords": [
     "uniswap",
     "ibbt",
+    "STO",
     "default",
     "list"
   ],
