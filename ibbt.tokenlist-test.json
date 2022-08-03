@@ -52,7 +52,7 @@
       "name": "Nexum",
       "symbol": "NEXM",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina"
+      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
       "extensions": {
         "bridgeInfo": {
           "137": {
