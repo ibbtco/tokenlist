@@ -46,14 +46,21 @@
       "decimals": 18,
       "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re"
     },
-    { 
-    "address": "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5",
-      "chainId": 1,
-      "name": "Nexum",
-      "symbol": "NEXM",
-      "decimals": 18,
-      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina"
-    },
+    {
+  		"name": "Nexum",
+  		"address": "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5",
+  		"symbol": "NEXM",
+  		"decimals": 18,
+  		"chainId": 1,
+ 		"logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
+  		"extensions": {
+    		"bridgeInfo": {
+      	"56": {
+        "tokenAddress": "0xfa37E513E6cd506c4694b992825a8B614C035581"
+      }
+    }
+  }
+},
     {
      "address": "0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
       "chainId": 1,
