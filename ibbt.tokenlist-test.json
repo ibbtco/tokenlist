@@ -52,17 +52,7 @@
       "name": "Nexum",
       "symbol": "NEXM",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
-      "extensions": {
-        "bridgeInfo": {
-          "137": {
-            "tokenAddress": "0xC88640B734fEA3b35c132Fe757AeB5ca6C8cDC66"
-          },
-          "56": {
-            "tokenAddress": "0xfa37E513E6cd506c4694b992825a8B614C035581"
-          }
-        }
-      }
+      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina"
     },
     {
      "address": "0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
