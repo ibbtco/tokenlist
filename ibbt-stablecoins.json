@@ -56,19 +56,19 @@
 	},
 	{
 		"chainId": 1,
-      	"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      	"symbol": "BUSD",
-      	"name": "Binance Dollar",
-      	"logoURI": "ipfs://bafkreiclchjsx7wg5qcfhtmdwn2i3q5g4orliecpg7gcrrlcfx75cpvpkm",
-      	"decimals": 18
+      		"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      		"symbol": "BUSD",
+      		"name": "Binance Dollar",
+      		"logoURI": "ipfs://bafkreiclchjsx7wg5qcfhtmdwn2i3q5g4orliecpg7gcrrlcfx75cpvpkm",
+      		"decimals": 18
 	},
 	{
 		"chainId": 1,
-      	"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      	"symbol": "TUSD",
-      	"name": "TrueUSD",
-      	"logoURI": "ipfs://bafkreifmmhhrfud7zf2xpqxgvyuq6dhhnywvog5htk47vs43wfxlxnua2q",
-      	"decimals": 18
+      		"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      		"symbol": "TUSD",
+      		"name": "TrueUSD",
+      		"logoURI": "ipfs://bafkreifmmhhrfud7zf2xpqxgvyuq6dhhnywvog5htk47vs43wfxlxnua2q",
+      		"decimals": 18
 	},
 	{
 		"chainId": 1,
@@ -145,6 +145,7 @@
  		"address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
  		"symbol": "RSR",
  		"name": "Reserve Rights",
+		"logoURI": "ipfs://bafkreihv2xizvjlggrebdbhqpdb22ug25dxkzcnvwnd6fndvublbpnzwne",
  		"decimals": 18
 	},
 	{
