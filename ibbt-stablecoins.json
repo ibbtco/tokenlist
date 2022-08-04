@@ -1,14 +1,16 @@
 {
 	"name": "iBlockchain Bank  Stablecoins",
-	"timestamp": "2022-08-02T21:29:07+00:00",
+	"timestamp": "2022-08-04T06:46:47+00:00",
 	"keywords": [
 	"coinmarketcap",
 	"parity dollar",
+	"uniswap",
+	"ibbt",
  	"stablecoin"
 	 ],
 	"version": {
-	"major": 2,
-	"minor": 1,
+	"major": 3,
+	"minor":2,
 	"patch": 0
 },
 		"tokens": [
@@ -28,6 +30,7 @@
       	"decimals": 4,
       	"logoURI": "ipfs://bafybeick5ns2nlq75kaq7zmk7zl4dqbbp4iay7aaq46mweoi3njqu7khva"
     },
+
 	{
 		"chainId": 1,
  		"address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -41,6 +44,31 @@
  		"symbol": "SAI",
  		"name": "Single Collateral DAI",
 		"decimals": 18
+	},
+	{
+	 	"chainId": 1,
+      	"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      	"symbol": "DAI",
+      	"name": "Dai Stablecoin",
+      	"logoURI": "ipfs://bafkreiaysgvgszfuigskqstdzf2vbk5jn7igvsnekxhtsqzagumoisktkq",
+      	"decimals": 18
+      	
+	},
+	{
+		"chainId": 1,
+      	"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      	"symbol": "BUSD",
+      	"name": "Binance Dollar",
+      	"logoURI": "ipfs://bafkreiclchjsx7wg5qcfhtmdwn2i3q5g4orliecpg7gcrrlcfx75cpvpkm",
+      	"decimals": 18
+	},
+	{
+		"chainId": 1,
+      	"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      	"symbol": "TUSD",
+      	"name": "TrueUSD",
+      	"logoURI": "ipfs://bafkreifmmhhrfud7zf2xpqxgvyuq6dhhnywvog5htk47vs43wfxlxnua2q",
+      	"decimals": 18
 	},
 	{
 		"chainId": 1,
@@ -95,8 +123,15 @@
 		"chainId": 1,
  		"address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
  		"symbol": "USDS",
- 		"name": "StableUSD",
+ 		"name": "USDP  Stablecoin",
 		"decimals": 6
+	},
+	{
+	    "chainId": 1,
+ 		"address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
+ 		"symbol": "USDP",
+ 		"name": "Stably Dollar",
+		"decimals": 18
 	},
 	{
 		"chainId": 1,
