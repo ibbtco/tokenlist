@@ -15,21 +15,21 @@
 },
 		"tokens": [
 	{
-      	"address": "0x496266ff0876262b0177Cef026A117AbC24B2532",
-      	"chainId": 1,
-      	"name": "Parity Dollar",
-      	"symbol": "XDL",
-     	 "decimals": 4,
-      	"logoURI": "ipfs://bafkreib4menr6oq77h3jvpydpxtzj3b5vwnfvcztamlvv77zs77jdyznke"
-    },
-    {
-      	"address": "0x8e12E7225d738386758832991F010c82De23f86d",
-      	"chainId": 1,
-      	"name": "ByDzyne Dollar",
-      	"symbol": "USBD",
-      	"decimals": 4,
-      	"logoURI": "ipfs://bafybeick5ns2nlq75kaq7zmk7zl4dqbbp4iay7aaq46mweoi3njqu7khva"
-    },
+      		"address": "0x496266ff0876262b0177Cef026A117AbC24B2532",
+      		"chainId": 1,
+      		"name": "Parity Dollar",
+      		"symbol": "XDL",
+     	 	"decimals": 4,
+      		"logoURI": "ipfs://bafkreib4menr6oq77h3jvpydpxtzj3b5vwnfvcztamlvv77zs77jdyznke"
+    	},
+    	{
+      		"address": "0x8e12E7225d738386758832991F010c82De23f86d",
+      		"chainId": 1,
+      		"name": "ByDzyne Dollar",
+      		"symbol": "USBD",
+      		"decimals": 4,
+      		"logoURI": "ipfs://bafybeick5ns2nlq75kaq7zmk7zl4dqbbp4iay7aaq46mweoi3njqu7khva"
+    	},
 
 	{
 		"chainId": 1,
@@ -47,12 +47,11 @@
 	},
 	{
 	 	"chainId": 1,
-      	"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      	"symbol": "DAI",
-      	"name": "Dai Stablecoin",
-      	"logoURI": "ipfs://bafkreiaysgvgszfuigskqstdzf2vbk5jn7igvsnekxhtsqzagumoisktkq",
-      	"decimals": 18
-      	
+      		"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      		"symbol": "DAI",
+      		"name": "Dai Stablecoin",
+      		"logoURI": "ipfs://bafkreiaysgvgszfuigskqstdzf2vbk5jn7igvsnekxhtsqzagumoisktkq",
+      		"decimals": 18
 	},
 	{
 		"chainId": 1,
@@ -127,7 +126,7 @@
 		"decimals": 6
 	},
 	{
-	    "chainId": 1,
+	    	"chainId": 1,
  		"address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
  		"symbol": "USDP",
  		"name": "Stably Dollar",
