@@ -162,10 +162,18 @@
       "symbol": "ANT",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+      "logoURI": "ipfs://bafkreihj4gqb4h6gg5e5a2xcucyebymtratqkexgjy4ell3j2opmwdarjm"
     },
     {
-      "name": "Aragon Network TokenV",
+      "name": "iBBT Utility",
+      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+      "symbol": "iBBT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re"
+    },
+    {
+      "name": "Aragon Network TokenVI",
       "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
       "symbol": "ANT",
       "decimals": 18,
@@ -173,7 +181,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
     },
     {
-      "name": "Aragon Network TokenVI",
+      "name": "Aragon Network TokenVII",
       "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
       "symbol": "ANT",
       "decimals": 18,
