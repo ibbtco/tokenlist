@@ -11,7 +11,7 @@
 	"version": {
 	"major": 4,
 	"minor":3,
-	"patch": 0
+	"patch": 1
 },
   "tokens": [
     {
@@ -194,7 +194,7 @@
       "symbol": "ANT",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+      "logoURI": "ipfs://bafkreihj4gqb4h6gg5e5a2xcucyebymtratqk"
     },
     {
       "chainId": 1,
