@@ -1,6 +1,6 @@
 {
-  "name": "My Token List",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "name": "iBBT Token List",
+  "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
   "keywords": [
     "audited",
     "verified",
@@ -18,6 +18,10 @@
     "utility": {
       "name": "Utility",
       "description": "Tokens that are used as a Utility"
+    },
+    "fractional shares": {
+      "name": "Fractinal Shares",
+      "description": "Tokens that represent Fractional Assets"
     }
   },
   "timestamp": "2020-06-12T00:00:00+00:00",
@@ -41,7 +45,8 @@
       "decimals": 18,
       "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
       "tags": [
-        "utility"
+        "utility",
+        "fractional shares"
       ]
     },
     {
@@ -58,7 +63,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
