@@ -24,7 +24,7 @@
       "description": "Tokens that represent Fractional Assets"
     }
   },
-  "timestamp": "2020-06-12T00:00:00+00:00",
+  "timestamp": "2022-08-10T11:57:39+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -44,6 +44,17 @@
       "name": "Parity Dollar",
       "decimals": 4,
       "logoURI": "ipfs://bafkreib4menr6oq77h3jvpydpxtzj3b5vwnfvcztamlvv77zs77jdyznke",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x496266ff0876262b0177Cef026A117AbC24B2532",
+      "symbol": "USBD",
+      "name": "ByDzyne Dollar",
+      "decimals": 4,
+      "logoURI": "ipfs://bafybeick5ns2nlq75kaq7zmk7zl4dqbbp4iay7aaq46mweoi3njqu7khva",
       "tags": [
         "stablecoin"
       ]
@@ -95,7 +106,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
