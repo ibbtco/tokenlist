@@ -45,7 +45,17 @@
       "decimals": 18,
       "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
       "tags": [
-        "utility",
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbA00CCE718263f1a7AB92D723995722554552C0",
+      "symbol": "iBBTs",
+      "name": "iBBT Tokenized Security",
+      "decimals": 2,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
         "fractional shares"
       ]
     },
@@ -63,7 +73,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
