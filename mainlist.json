@@ -19,8 +19,8 @@
       "name": "Utility",
       "description": "Tokens that are used as a Utility"
     },
-    "fractional shares": {
-      "name": "Fractinal Shares",
+    "fractional share": {
+      "name": "Fractinal Share",
       "description": "Tokens that represent Fractional Assets"
     }
   },
@@ -89,7 +89,7 @@
       "decimals": 2,
       "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
       "tags": [
-        "fractional shares"
+        "fractional share"
       ]
     },
     {
@@ -107,6 +107,6 @@
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }
