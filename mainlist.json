@@ -87,13 +87,24 @@
     },
     {
       "chainId": 1,
-      "address": "0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
+      "address": "0x76acE4E080C49F04A6C12756c036d3627F6B1e69",
       "symbol": "CREE",
       "name": "InterGallactic Credit",
       "decimals": 18,
       "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
       "tags": [
         "galactic credits"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xafcCbdA168681038419908470e79E2353a798E1f",
+      "symbol": "ORE",
+      "name": "Mythril Ore",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "utility"
       ]
     },
     {
