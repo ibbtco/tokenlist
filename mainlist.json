@@ -104,7 +104,8 @@
         "utility"
       ]
     },
-    "chainId": 1,
+    }
+      "chainId": 1,
       "address": "0x625E7C977Cebab5734316574A6D0dC9E53aC0057",
       "symbol": "FREE",
       "name": "Free Speech Token",
