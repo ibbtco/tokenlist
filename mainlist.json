@@ -135,7 +135,7 @@
       "symbol": "NEXM",
       "name": "Nexum Utility",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
       "tags": [
         "utility"
       ]
@@ -146,7 +146,7 @@
       "symbol": "GEO",
       "name": "GEO Rewards",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
       "tags": [
         "utility"
       ]
@@ -157,6 +157,17 @@
       "symbol": "SID",
       "name": "SmartIDentity.io",
       "decimals": 18,
+      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F77a0cc3caCE8c58ccE9D153c070f312D1a1088",
+      "symbol": "₵",
+      "name": "Med. Cannabis Note",
+      "decimals": 4,
       "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
       "tags": [
         "utility"
@@ -188,6 +199,6 @@
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 8
+    "patch": 10
   }
 }
