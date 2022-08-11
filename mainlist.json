@@ -201,6 +201,17 @@
     },
     {
       "chainId": 1,
+      "address": "0x18189bB2504a0FbE2D2E76C2Bff200c76543f121",
+      "symbol": "HHO",
+      "name": "Hydrogen Innovations",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "energy swap"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
       "symbol": "cUSDC",
       "name": "Compound USD Coin",
@@ -213,7 +224,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
-    "patch": 12
+    "minor": 7,
+    "patch": 0
   }
 }
