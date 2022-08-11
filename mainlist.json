@@ -95,6 +95,28 @@
     },
     {
       "chainId": 1,
+      "address": "0x625E7C977Cebab5734316574A6D0dC9E53aC0057",
+      "symbol": "FREE",
+      "name": "Free Speech Token",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9E98ab228329a6F40CCFA200B2989076A5b7AB6",
+      "symbol": "CELL",
+      "name": "RealCell.io",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0xa07133180f626080241CA4741c39Ed015e0AD4f3",
       "symbol": "2AR",
       "name": "2A Rights Coin",
@@ -251,6 +273,6 @@
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 2
+    "patch": 6
   }
 }
