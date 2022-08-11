@@ -138,7 +138,14 @@
       "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
       "tags": [
         "utility"
-      ]
+      ],
+      "extensions": {
+    	  "bridgeInfo": {
+      	          "56":  {
+        "tokenAddress": "0xfa37E513E6cd506c4694b992825a8B614C035581"
+                          }
+                         }
+                       }
     },
     {
       "chainId": 1,
