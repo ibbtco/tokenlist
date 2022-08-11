@@ -1,6 +1,5 @@
 {
    "name":"iBlockchain Bank Multi Chain Default",
-   "timestamp":"2022-08-04T06:46:47+00:00",
    "keywords":[
       "coinmarketcap",
       "parity dollar",
@@ -11,8 +10,39 @@
    "version":{
       "major":4,
       "minor":2,
-      "patch":0
+      "patch":1
    },
+   "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": "Tokens that earn interest on compound.finance"
+    },
+    "utility": {
+      "name": "Utility",
+      "description": "Tokens that are used as a Utility"
+    },
+    "galactic credits": {
+      "name": "Galactic Credits",
+      "description": "InterGalactic Credits (CREE) are used as a multi-purpose mediation instrument"
+    },
+    "banknote": {
+      "name": "Hellenic Drachmae",
+      "description": "drachmae or δραχμαί is the name of the currency used in Hellenic Republic during several periods in its history."
+    },
+    "energy swap": {
+      "name": "Green Tech Coin",
+      "description": "The GTEC vision is to provide a swappable multipurpose energy token with full, built-in accountability."
+    },
+    "fractional share": {
+      "name": "Fractinal Share",
+      "description": "Tokens that represent Fractional Assets"
+    }
+  },
+  "timestamp": "2022-08-10T11:57:39+00:00",
    "tokens":[
       {
          "chainId":1,
