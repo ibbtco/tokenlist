@@ -104,17 +104,6 @@
         "utility"
       ]
     },
-    }
-      "chainId": 1,
-      "address": "0x625E7C977Cebab5734316574A6D0dC9E53aC0057",
-      "symbol": "FREE",
-      "name": "Free Speech Token",
-      "decimals": 18,
-      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
-      "tags": [
-        "utility"
-      ]
-    },
     {
       "chainId": 1,
       "address": "0x76acE4E080C49F04A6C12756c036d3627F6B1e69",
@@ -262,6 +251,6 @@
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 5
+    "patch": 2
   }
 }
