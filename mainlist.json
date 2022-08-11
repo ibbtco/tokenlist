@@ -142,17 +142,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x829FC6B9CCEC9FBd5534E40B2181556C2a791896",
-      "symbol": "GEO",
-      "name": "GEO Rewards",
-      "decimals": 18,
-      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
-      "tags": [
-        "utility"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbbA00CCE718263f1a7AB92D723995722554552C0",
       "symbol": "iBBTs",
       "name": "iBBT Tokenized Security",
