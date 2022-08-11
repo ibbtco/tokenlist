@@ -95,6 +95,17 @@
     },
     {
       "chainId": 1,
+      "address": "0xa07133180f626080241CA4741c39Ed015e0AD4f3",
+      "symbol": "2AR",
+      "name": " 2A Rights CoinUpdate",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0x76acE4E080C49F04A6C12756c036d3627F6B1e69",
       "symbol": "CREE",
       "name": "InterGallactic Credit",
@@ -240,6 +251,6 @@
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 1
+    "patch": 2
   }
 }
