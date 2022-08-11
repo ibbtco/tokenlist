@@ -9,7 +9,7 @@
    ],
    "version":{
       "major":4,
-      "minor":2,
+      "minor":3,
       "patch":5
    },
    "tags": {
@@ -88,7 +88,8 @@
          "name":"Alchemy Pay",
          "symbol":"ACH",
          "decimals":8,
-         "logoURI":"https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266"
+         "logoURI":"ipfs://bafkreifi4vuxnbavk5uap6queqepcqzx7fwyzfcbh6z2tgvyeaxpjowjum",
+         "tags": ["utility"]
       },
       {
          "chainId":1,
