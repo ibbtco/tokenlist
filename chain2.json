@@ -10,7 +10,7 @@
    "version":{
       "major":4,
       "minor":2,
-      "patch":2
+      "patch":4
    },
    "tags": {
     "stablecoin": {
@@ -50,7 +50,7 @@
          "name":"1inch",
          "symbol":"1INCH",
          "decimals":18,
-         "logoURI":"https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+         "logoURI":"ipfs://bafkreievkqiakb44tqmyt4kx66exclg72hxhd4ajiph45bc5opaf77ebhu",
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -68,7 +68,7 @@
          "name":"Aave",
          "symbol":"AAVE",
          "decimals":18,
-         "logoURI":"https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
+         "logoURI":"ipfs://bafkreicmic6rah5d2mxdodq3jrh5zqg3fl7simmqw2aidjx336t6bicaji",
          "extensions":{
             "bridgeInfo":{
                "137":{
