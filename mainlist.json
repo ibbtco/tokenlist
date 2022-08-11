@@ -19,6 +19,10 @@
       "name": "Utility",
       "description": "Tokens that are used as a Utility"
     },
+    "galactic credits": {
+      "name": "Galactic Credits",
+      "description": "InterGalactic Credits (CREE) are used as a multi-purpose mediation instrument"
+    },
     "fractional share": {
       "name": "Fractinal Share",
       "description": "Tokens that represent Fractional Assets"
@@ -83,6 +87,17 @@
     },
     {
       "chainId": 1,
+      "address": "0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
+      "symbol": "CREE",
+      "name": "InterGallactic Credit",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "galactic credits"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0xbbA00CCE718263f1a7AB92D723995722554552C0",
       "symbol": "iBBTs",
       "name": "iBBT Tokenized Security",
@@ -106,7 +121,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 2
   }
 }
