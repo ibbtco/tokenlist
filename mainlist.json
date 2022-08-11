@@ -135,7 +135,7 @@
       "symbol": "NEXM",
       "name": "Nexum Utility",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
       "tags": [
         "utility"
       ]
@@ -177,6 +177,6 @@
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 6
+    "patch": 7
   }
 }
