@@ -109,6 +109,28 @@
     },
     {
       "chainId": 1,
+      "address": "0xd7a150D2eDfE324166436ea0766294634B811Bb5",
+      "symbol": "DARSA",
+      "name": "Asset Compliance",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04A289fe4cE5fa87a76F58d0214340fb5893A58c",
+      "symbol": "REAL",
+      "name": "RealBlock.io",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0xbbA00CCE718263f1a7AB92D723995722554552C0",
       "symbol": "iBBTs",
       "name": "iBBT Tokenized Security",
@@ -132,7 +154,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 3
   }
 }
