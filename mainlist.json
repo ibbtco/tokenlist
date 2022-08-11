@@ -153,6 +153,17 @@
     },
     {
       "chainId": 1,
+      "address": "0xb35e3E3E8A95Fd245d5C912118045459AaB9243b",
+      "symbol": "SID",
+      "name": "SmartIDentity.io",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0xbbA00CCE718263f1a7AB92D723995722554552C0",
       "symbol": "iBBTs",
       "name": "iBBT Tokenized Security",
@@ -177,6 +188,6 @@
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 7
+    "patch": 8
   }
 }
