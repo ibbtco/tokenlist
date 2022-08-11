@@ -51,6 +51,7 @@
          "symbol":"1INCH",
          "decimals":18,
          "logoURI":"ipfs://bafkreievkqiakb44tqmyt4kx66exclg72hxhd4ajiph45bc5opaf77ebhu",
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -69,6 +70,7 @@
          "symbol":"AAVE",
          "decimals":18,
          "logoURI":"ipfs://bafkreicmic6rah5d2mxdodq3jrh5zqg3fl7simmqw2aidjx336t6bicaji",
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
