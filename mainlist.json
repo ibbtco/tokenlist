@@ -131,6 +131,17 @@
     },
     {
       "chainId": 1,
+      "address": "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5",
+      "symbol": "NEXM",
+      "name": "Nexum Utility",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreibsdk2b3nu3ytmupnplpiihvt2ar763gg7pl7wz6khj5calav7ina",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0xbbA00CCE718263f1a7AB92D723995722554552C0",
       "symbol": "iBBTs",
       "name": "iBBT Tokenized Security",
