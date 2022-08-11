@@ -10,7 +10,7 @@
    ],
    "version":{
       "major":4,
-      "minor":4,
+      "minor":5,
       "patch":3
    },
    "tokens":[
@@ -5629,7 +5629,7 @@
          "symbol":"USDT",
          "decimals":6,
          "chainId":42161,
-         "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+         "logoURI":"ipfs://bafkreia4f3h4rqekqineqopsvyg7dwdznkg7em4ttnjxwtrgkfh2j6irsy",
          "extensions":{
             "bridgeInfo":{
                "1":{
@@ -5644,7 +5644,7 @@
          "symbol":"WBTC",
          "decimals":8,
          "chainId":42161,
-         "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+         "logoURI":"ipfs://bafkreicir3m6lv6kbbyzhx2fm5qxhrmawl5yxh6ubk4qmgpzcabjzqnofa",
          "extensions":{
             "bridgeInfo":{
                "1":{
