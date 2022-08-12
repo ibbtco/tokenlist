@@ -107,7 +107,7 @@
          "symbol":"AGLD",
          "decimals":18,
          "logoURI":"https://assets.coingecko.com/coins/images/18125/thumb/lpgblc4h_400x400.jpg?1630570955",
-         "tags": ["utility"]
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -123,7 +123,7 @@
          "symbol":"AIOZ",
          "decimals":18,
          "logoURI":"https://assets.coingecko.com/coins/images/14631/thumb/aioz_logo.png?1617413126",
-         "tags": ["utility"]
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -139,7 +139,7 @@
          "symbol":"ALCX",
          "decimals":18,
          "logoURI":"https://assets.coingecko.com/coins/images/14113/thumb/Alchemix.png?1614409874",
-         "tags": ["utility"]
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -155,7 +155,7 @@
          "symbol":"ALICE",
          "decimals":6,
          "logoURI":"https://assets.coingecko.com/coins/images/14375/thumb/alice_logo.jpg?1615782968",
-         "tags": ["utility"]
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -171,7 +171,7 @@
          "symbol":"AMP",
          "decimals":18,
          "logoURI":"https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
-         "tags": ["utility"]
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -187,7 +187,7 @@
          "symbol":"ANKR",
          "decimals":18,
          "logoURI":"https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
-         "tags": ["utility"]
+         "tags": ["utility"],
          "extensions":{
             "bridgeInfo":{
                "137":{
@@ -203,7 +203,7 @@
          "decimals":18,
          "chainId":1,
          "logoURI":"ipfs://bafkreihj4gqb4h6gg5e5a2xcucyebymtratqkexgjy4ell3j2opmwdarjm",
-         "tags": ["utility"]
+         "tags": ["utility"],
       },
       {
          "chainId":1,
